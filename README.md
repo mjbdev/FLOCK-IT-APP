@@ -1,7 +1,5 @@
 # FlockIT_APP
 
-Flock IT App
-=======
 Flock IT App <br>
 
 El servicio corre con Spring Boot, tiene una base de datos en memoria configurada con un solo usuario: mborda.
