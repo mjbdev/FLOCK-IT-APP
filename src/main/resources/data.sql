@@ -1,0 +1,1 @@
+INSERT INTO user (id, name, username, password) VALUES (1, 'maxi', 'mborda', 'c44858b545516a7d82fa0847a28fd7f8');
